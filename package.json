@@ -1,0 +1,22 @@
+{
+  "name": "learning_backend",
+  "version": "1.0.0",
+  "description": "\"Going to dive into the journey of learning backend.\"",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "first",
+    "Backend",
+    "Learning"
+  ],
+  "author": "ShuklaJI",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.3"
+  }
+}
